@@ -31,4 +31,4 @@ if (!file_exists('output')) {
     mkdir('output');
 }
 
-echo "Images have been processed and saved to the 'output' directory\n";
+echo 'Images have been processed and saved to the "output" directory\n';
