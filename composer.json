@@ -24,4 +24,5 @@
         "laravel/pint": "1.2.*"
     },
     "minimum-stability": "dev"
+
 }
